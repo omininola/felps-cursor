@@ -1,0 +1,6 @@
+[General]
+resize_algorithm = "bilinear"
+hotspot_x = 0.5
+hotspot_y = 0.875
+define_override = "bottom_side"
+define_size = "0, s-resize.svg"
