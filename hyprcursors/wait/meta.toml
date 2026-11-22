@@ -2,34 +2,34 @@
 resize_algorithm = "bilinear"
 hotspot_x = 0.0
 hotspot_y = 0.0
-define_override = "wait;progress"
+define_override = "wait(Camada ;progress"
 define_size = """
-0, wait1.svg, 24;
-0, wait2.svg, 24;
-0, wait3.svg, 24;
-0, wait4.svg, 24;
-0, wait5.svg, 24;
-0, wait6.svg, 24;
-0, wait7.svg, 24;
-0, wait8.svg, 24;
-0, wait9.svg, 24;
-0, wait10.svg, 24;
-0, wait11.svg, 24;
-0, wait12.svg, 24;
-0, wait13.svg, 24;
-0, wait14.svg, 24;
-0, wait15.svg, 24;
-0, wait16.svg, 24;
-0, wait17.svg, 24;
-0, wait18.svg, 24;
-0, wait19.svg, 24;
-0, wait20.svg, 24;
-0, wait21.svg, 24;
-0, wait22.svg, 24;
-0, wait23.svg, 24;
-0, wait24.svg, 24;
-0, wait25.svg, 24;
-0, wait26.svg, 24;
-0, wait27.svg, 24;
-0, wait28.svg, 24
+0, wait(Camada 1) _0001.svg, 24;
+0, wait(Camada 2) _0001.svg, 24;
+0, wait(Camada 3) _0001.svg, 24;
+0, wait(Camada 4) _0001.svg, 24;
+0, wait(Camada 5) _0001.svg, 24;
+0, wait(Camada 6) _0001.svg, 24;
+0, wait(Camada 7) _0001.svg, 24;
+0, wait(Camada 8) _0001.svg, 24;
+0, wait(Camada 9) _0001.svg, 24;
+0, wait(Camada 10) _0001.svg, 24;
+0, wait(Camada 11) _0001.svg, 24;
+0, wait(Camada 12) _0001.svg, 24;
+0, wait(Camada 13) _0001.svg, 24;
+0, wait(Camada 14) _0001.svg, 24;
+0, wait(Camada 15) _0001.svg, 24;
+0, wait(Camada 16) _0001.svg, 24;
+0, wait(Camada 17) _0001.svg, 24;
+0, wait(Camada 18) _0001.svg, 24;
+0, wait(Camada 19) _0001.svg, 24;
+0, wait(Camada 20) _0001.svg, 24;
+0, wait(Camada 21) _0001.svg, 24;
+0, wait(Camada 22) _0001.svg, 24;
+0, wait(Camada 23) _0001.svg, 24;
+0, wait(Camada 24) _0001.svg, 24;
+0, wait(Camada 25) _0001.svg, 24;
+0, wait(Camada 26) _0001.svg, 24;
+0, wait(Camada 27) _0001.svg, 24;
+0, wait(Camada 28) _0001.svg, 24
 """
