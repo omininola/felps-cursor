@@ -1,6 +1,35 @@
 [General]
 resize_algorithm = "bilinear"
-hotspot_x = 0.5
-hotspot_y = 0.5
-define_override = "wait"
-define_size = "0, wait.svg"
+hotspot_x = 0.0
+hotspot_y = 0.0
+define_override = "wait;progress"
+define_size = """
+0, wait1.svg, 24;
+0, wait2.svg, 24;
+0, wait3.svg, 24;
+0, wait4.svg, 24;
+0, wait5.svg, 24;
+0, wait6.svg, 24;
+0, wait7.svg, 24;
+0, wait8.svg, 24;
+0, wait9.svg, 24;
+0, wait10.svg, 24;
+0, wait11.svg, 24;
+0, wait12.svg, 24;
+0, wait13.svg, 24;
+0, wait14.svg, 24;
+0, wait15.svg, 24;
+0, wait16.svg, 24;
+0, wait17.svg, 24;
+0, wait18.svg, 24;
+0, wait19.svg, 24;
+0, wait20.svg, 24;
+0, wait21.svg, 24;
+0, wait22.svg, 24;
+0, wait23.svg, 24;
+0, wait24.svg, 24;
+0, wait25.svg, 24;
+0, wait26.svg, 24;
+0, wait27.svg, 24;
+0, wait28.svg, 24
+"""
