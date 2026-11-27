@@ -1,0 +1,6 @@
+[General]
+resize_algorithm = "bilinear"
+hotspot_x = 0.5
+hotspot_y = 0.5
+define_override = "fd_double_arrow;size_bdiag"
+define_size = "0, nesw-resize.svg"
